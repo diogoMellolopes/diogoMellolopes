@@ -1,17 +1,13 @@
 ## Seja bem-vindo ao meu perfil do GitHub!
 
-<div align="center">
-
 <details>
   <summary><strong>Sobre Mim</strong></summary>
-
-</div>
 
 <br>
 
 Me chamo Diogo, tenho 20 anos e sou estudante de computação.
 
-Atualmente estou trabalhando como programador na empresa Proc9 Indústria Química, mas procurando e totalmente aberto a outras oportunidades, principalmente na área de desenvolvimento.
+Atualmente estou trabalhando como programador na empresa Proc9 Indústria Química, mas procurando outras oportunidades, principalmente na área de desenvolvimento.
 
 Sou apaixonado por jogos, sistemas interativos e desenvolvimento de projetos. Possuo alguns projetos dos quais me orgulho, além de muitas outras ideias que pretendo desenvolver e compartilhar futuramente.
 
