@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu perfil do GitHub!
 
-<details>
+<details align = "center">
   <summary><strong>Sobre Mim</strong></summary>
 
 <br>
