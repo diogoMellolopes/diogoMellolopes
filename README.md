@@ -17,7 +17,7 @@ Sou apaixonado por jogos, sistemas interativos e desenvolvimento de projetos. Po
 
 ---
 
-## Tecnologias que utilizo:
+## Linguagens:
 
 - Python
 - SQL
