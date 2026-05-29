@@ -1,19 +1,19 @@
 ## Seja bem-vindo ao meu perfil do GitHub!
 
-<div align="center">
-<details>
+<details align="center">
   <summary><strong>Sobre Mim</strong></summary>
 
-  <br>
-
-  Me chamo Diogo tenho 20 anos e sou um estudante de computação. 
-  
-  Atualmente estou trabalhando como programador na empresa Proc9 Indústria Química, mas procurando outras oportunidades, principalmente na área de desenvolvimento.
-
-  Sou um apaixonado por jogos, sistemas interativos e desenvolvimento de projetos. Possuo alguns destes dos quais me orgulho, além de muitas outras ideias que pretendo desenvolver e compartilhar futuramente
 <br>
+
+Me chamo Diogo, tenho 20 anos e sou estudante de computação.
+
+Atualmente estou trabalhando como programador na empresa Proc9 Indústria Química, mas procurando outras oportunidades, principalmente na área de desenvolvimento.
+
+Sou apaixonado por jogos, sistemas interativos e desenvolvimento de projetos. Possuo alguns projetos dos quais me orgulho, além de muitas outras ideias que pretendo desenvolver e compartilhar futuramente.
+
+<br>
+
 </details>
-</div>
 
 ---
 
@@ -36,7 +36,7 @@ em uma grande estrutura organizada. Como possuo muita admiração por jogos, pen
 Projeto de Backend. Foi desenvolvido como parte obrigatória do curso Futuro Digital ministrado pelo Instituto Hardware e em parceira com o IFRS Canoas. O objetivo do projeto
 era desenvolver um sistema Backend baseado em algum tema específico pré-determinado e cumprindo algumas métricas específicas. Minha escolha foi fazer inspirado no site do professor ministrador: [RevisaoOnline](https://revisaoonline.com.br/)
 
-### [Sudoku~](https://github.com/diogoMellolopes/Sudoku-em-Python)
+### [Sudoku](https://github.com/diogoMellolopes/Sudoku-em-Python)
 
 Projeto acadêmico desenvolvido no início da minha formação em 2024. Foi feito em uma semana utilizando Python e sua biblioteca TkInter como motor gráfico. 
 Guarda-o como recordação e por representar uma das minhas primeiras experiências maiores com programação
