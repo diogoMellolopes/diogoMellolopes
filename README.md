@@ -53,3 +53,4 @@ Guarda-o como recordação e por representar uma das minhas primeiras experiênc
 ## Contato
 
 Meu Email: diogomello451@gmail.com
+Meu LinkedIn: www.linkedin.com/in/diogo-de-mello-marchionni-lopes-839a412b5/
