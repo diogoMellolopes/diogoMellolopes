@@ -43,8 +43,8 @@ Guarda-o como recordação e por representar uma das minhas primeiras experiênc
 
 ### [Etiquetas Giesta](https://github.com/diogoMellolopes/Etiquetas-Giesta)
 
-Projeto desenvolvido dentro do trabalho. Motivado por um grande gargalo interno dentro da empresa com impressões de etiquetas e rótulos de produtos químicos no ambiente Zebra. 
-Sua motivação foi desenvolver um programa que diminuisse significativamente o erro humano e também aumentar a velocidade das impressões.
+Projeto desenvolvido dentro da empresa para resolver um grande gargalo na impressão de etiquetas e rótulos de produtos químicos utilizando impressoras Zebra.
+O sistema automatiza a geração e impressão de etiquetas, reduzindo erros humanos, padronizando informações críticas e aumentando significativamente a velocidade do processo operacional.
 
 ---
 
