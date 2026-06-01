@@ -41,6 +41,11 @@ era desenvolver um sistema Backend baseado em algum tema específico pré-determ
 Projeto acadêmico desenvolvido no início da minha formação em 2024. Foi feito em uma semana utilizando Python e sua biblioteca TkInter como motor gráfico. 
 Guarda-o como recordação e por representar uma das minhas primeiras experiências maiores com programação
 
+### [Etiquetas Giesta](https://github.com/diogoMellolopes/Etiquetas-Giesta)
+
+Projeto desenvolvido dentro do trabalho. Motivado por um grande gargalo interno dentro da empresa com impressões de etiquetas e rótulos de produtos químicos no ambiente Zebra. 
+Sua motivação foi desenvolver um programa que diminuisse significativamente o erro humano e também aumentar a velocidade das impressões.
+
 ---
 
 ## Atualmente
