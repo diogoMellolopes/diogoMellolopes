@@ -7,7 +7,7 @@
 
 Me chamo Diogo, tenho 20 anos e sou estudante de computação.
 
-Atualmente estou trabalhando como programador na empresa Proc9 Indústria Química, mas procurando outras oportunidades, principalmente na área de desenvolvimento.
+Atualmente trabalho com desenvolvimento de sistemas internos na Proc9 Indústria Química, atuando principalmente com Python, automação de processos e integração de sistemas. Estou aberto e procurando outras oportunidades, principalmente na área de desenvolvimento.
 
 Sou apaixonado por jogos, sistemas interativos e desenvolvimento de projetos. Possuo alguns projetos dos quais me orgulho, além de muitas outras ideias que pretendo desenvolver e compartilhar futuramente.
 
@@ -26,6 +26,10 @@ Sou apaixonado por jogos, sistemas interativos e desenvolvimento de projetos. Po
 
 ## Principais Projetos
 
+### [Etiquetas Giesta](https://github.com/diogoMellolopes/Etiquetas-Giesta)
+
+Sistema corporativo utilizado internamente para gerenciamento e impressão de etiquetas laboratoriais. O projeto automatizou processos que anteriormente eram realizados manualmente através de arquivos Zebra, reduzindo erros operacionais, padronizando informações críticas e acelerando significativamente o fluxo de produção.
+
 ### [PyChess](https://github.com/diogoMellolopes/PyChess)
 
 Meu projeto com maior empenho. Foi desenvolvido entre junho e agosto de 2025. O objetivo com o seu desenvolvimento foi fazer uma junção de todos os meus conhecimentos até aquele momento
@@ -33,18 +37,13 @@ em uma grande estrutura organizada. Como possuo muita admiração por jogos, pen
 
 ### [ProjetoBackend](https://github.com/diogoMellolopes/ProjetoBackend)
 
-Projeto de Backend. Foi desenvolvido como parte obrigatória do curso Futuro Digital ministrado pelo Instituto Hardware e em parceira com o IFRS Canoas. O objetivo do projeto
+Projeto de Backend. Foi desenvolvido como parte obrigatória do curso Futuro Digital ministrado pelo Instituto Hardware em parceria com o IFRS Canoas. O objetivo do projeto
 era desenvolver um sistema Backend baseado em algum tema específico pré-determinado e cumprindo algumas métricas específicas. Minha escolha foi fazer inspirado no site do professor ministrador: [RevisaoOnline](https://revisaoonline.com.br/)
 
 ### [Sudoku](https://github.com/diogoMellolopes/Sudoku-em-Python)
 
 Projeto acadêmico desenvolvido no início da minha formação em 2024. Foi feito em uma semana utilizando Python e sua biblioteca TkInter como motor gráfico. 
-Guarda-o como recordação e por representar uma das minhas primeiras experiências maiores com programação
-
-### [Etiquetas Giesta](https://github.com/diogoMellolopes/Etiquetas-Giesta)
-
-Projeto desenvolvido dentro da empresa para resolver um grande gargalo na impressão de etiquetas e rótulos de produtos químicos utilizando impressoras Zebra.
-O sistema automatiza a geração e impressão de etiquetas, reduzindo erros humanos, padronizando informações críticas e aumentando significativamente a velocidade do processo operacional.
+Guardo-o como recordação e por representar uma das minhas primeiras experiências maiores com programação
 
 ---
 
