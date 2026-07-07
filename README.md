@@ -51,7 +51,6 @@ Guardo-o como recordação e por representar uma das minhas primeiras experiênc
 
 - Trabalhando como Programador Python na Proc9 Indústria Química
 - Estudando Ciência da Computação na Universidade La Salle Canoas
-- Participando do desenvolvimento do projeto RevisãoOnline
 - Buscando especialização e experiências mais concretas na área de desenvolvimento
 
 ## Contato
