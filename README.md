@@ -49,7 +49,6 @@ Guardo-o como recordação e por representar uma das minhas primeiras experiênc
 
 ## Atualmente
 
-- Trabalhando como Programador Python na Proc9 Indústria Química
 - Estudando Ciência da Computação na Universidade La Salle Canoas
 - Buscando especialização e experiências mais concretas na área de desenvolvimento
 
